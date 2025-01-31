@@ -1,0 +1,5 @@
+pandas==2.2.2
+transformers==4.43.0
+torchaudio==2.5.1+cu121
+torch==2.5.1+cu121
+datasets==2.20.0
