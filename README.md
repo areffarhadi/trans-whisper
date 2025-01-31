@@ -1,4 +1,9 @@
-# trans-whisper
-this is a fine tuned version of Whisper large v2 model for whispered speech recognition.
+#ASR for whisper speech
+whispered speech is a challenging speaking style for the normal ASR model. In this repo, we share the fine-tuned version of the OpenAI `Whisper-large-v2` model for whispered speech. In this fine-tuning, we used WTIMIT and CHAINS datasets. 
 
-You can download the [fine-tuned Whisper large v2 model](https://drive.google.com/file/d/1MB8qjPk8lmtECmuKX0qXhlXr9uwmnA0g/view?usp=sharing) for whispered speech recognirion.
+You can download the [fine-tuned Whisper large v2 model](https://drive.google.com/file/d/1MB8qjPk8lmtECmuKX0qXhlXr9uwmnA0g/view?usp=sharing) for whispered speech recognition.
+
+Results are reported in these papers:
+
+1. [Leveraging Self-Supervised Models for Automatic Whispered Speech Recognition](https://arxiv.org/abs/2407.21211)
+2. Submitted to Interspeech2025
