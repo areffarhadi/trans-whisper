@@ -11,3 +11,8 @@ Results are reported in these papers:
 
 1. [Leveraging Self-Supervised Models for Automatic Whispered Speech Recognition](https://arxiv.org/abs/2407.21211)
 2. Submitted to Interspeech2025
+
+
+
+__________________________________
+# Whisper Vs. Normal speech Classification.
