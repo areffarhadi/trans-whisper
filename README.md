@@ -10,7 +10,7 @@ You can download the [fine-tuned Whisper large v2 model](https://drive.google.co
 Results are reported in these papers:
 
 1. [Leveraging Self-Supervised Models for Automatic Whispered Speech Recognition](https://arxiv.org/abs/2407.21211)
-2. Submitted to Interspeech2025
+
 
 
 
