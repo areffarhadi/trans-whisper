@@ -22,4 +22,4 @@ We utilized this model to create a whisper speech dataset. In large-scale file m
 
 
 https://docs.google.com/document/d/136h1V6bZP3N-JZ3jzty2-VgK1kGJDg8PO4cknD30wOc/edit?usp=sharing
-https://drive.google.com/file/d/1FD6fBkhYg2xC5dQRLoz2ra8wHjllAte0/view?usp=sharing
+https://drive.google.com/file/d/1uh5_rcB8rMiqkg-0qf9v8tmjMhrYUVWN/view?usp=drive_link
