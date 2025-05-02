@@ -20,5 +20,4 @@ Using `test_youtube_WN2.py`, you can utilize a fine-tuned ResNet model to classi
 
 We utilized this model to create a whisper speech dataset. In large-scale file manipulation, sometimes the utterances are nonspeech (consisting of music, env sound, etc.), and to remove these non-speech utterances, you can use `speech_nonspeech2.py`. This code is based on SpeechBrain's model.
 
-https://drive.google.com/file/d/1U3-Ok3ed0np6CYq8s3NrGuS5nATfcuCf/view?usp=sharing
-https://drive.google.com/file/d/1FD6fBkhYg2xC5dQRLoz2ra8wHjllAte0/view?usp=sharing
+
